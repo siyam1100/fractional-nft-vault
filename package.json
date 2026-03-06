@@ -1,0 +1,15 @@
+{
+  "name": "fractional-nft-vault",
+  "version": "1.0.0",
+  "description": "ERC721 to ERC20 Fractionalization Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}{
+  "name": "fractional-nft-vault",
+  "version": "1.0.0",
+  "description": "ERC721 to ERC20 Fractionalization Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
